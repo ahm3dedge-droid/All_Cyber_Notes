@@ -1,0 +1,3 @@
+## **Kerberos vs. NTLM ( Microsoft New Technology LAN Manager)**
+
+Microsoft NTLM is an outdated authentication protocol that can still be used to provide SSO services in AD domains. It was first made available in Windows NT in 1993; Microsoft [deprecated](https://www.techtarget.com/whatis/definition/deprecated) NTLM for authentication, replacing it with Kerberos starting in Windows 2000. Kerberos is currently the preferred authentication protocol for Windows.

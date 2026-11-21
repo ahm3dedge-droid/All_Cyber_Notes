@@ -1,0 +1,1 @@
+![[3 types of delegation table for redteamer___.png]]

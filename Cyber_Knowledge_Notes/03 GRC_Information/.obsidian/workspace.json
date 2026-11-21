@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "9241bda43a4e50a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1dca3bb83873bc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "346ab2b139b210c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 SOC Notes/01. Company Security Hierarchy/01. Security Hierarchy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01. Security Hierarchy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05be284b03b5e277",
+    "type": "split",
+    "children": [
+      {
+        "id": "662e48acbe6d47fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5abb5d4bf486291",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "da19316887f955c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "iso 27001",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6bb872bde6c8e617",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5004348754883
+  },
+  "right": {
+    "id": "16a8e8b6dc396947",
+    "type": "split",
+    "children": [
+      {
+        "id": "db27421bdd17e65a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce463237947a023e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e974b29c3057a464",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1bf733b6f6745058",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0eda8914d96095d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8dcf50a54f3bc914",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "346ab2b139b210c5",
+  "lastOpenFiles": [
+    "00 SOC Notes/02. Teams and Departments/SOC & MSSP.md",
+    "00 SOC Notes/02. Teams and Departments/Cyber Incident Response Team (CIRT).md",
+    "Domains of Cyber & Information Security/Untitled.md",
+    "Domains of Cyber & Information Security/Untitled",
+    "00 SOC Notes/02. Teams and Departments/Specialized Defensive Roles.md",
+    "images/Pasted image 20260120213804.png",
+    "images/Pasted image 20260120213646.png",
+    "00 SOC Notes/02. Teams and Departments/Security Operations Center (SOC).md",
+    "00 SOC Notes/01. Company Security Hierarchy/01. Security Hierarchy.md",
+    "images/Pasted image 20260120213435.png",
+    "00 SOC Notes/02. Teams and Departments",
+    "images/Pasted image 20260120213241.png",
+    "How to Implement ISO 27001/Complete Process to Implement ISO 27001.md",
+    "00 SOC Notes/01. Company Security Hierarchy",
+    "00 SOC Notes",
+    "images/Pasted image 20260120145707.png",
+    "images/Pasted image 20260120145701.png",
+    "images/Pasted image 20260120145638.png",
+    "ITGC/IT General Controls (ITGC).md",
+    "ITGC",
+    "ISO 27001 Lead Auditor/ISO Clauses/Clause 10.md",
+    "Untitled/Untitled",
+    "How to Implement ISO 27001",
+    "ISO 27001 Lead Auditor/ISO Clauses/Clause 9.md",
+    "ISO 27001 Lead Auditor/ISO Clauses/Clause 8.md",
+    "ISO 27001 Lead Auditor/ISO Clauses/Clause 7.md",
+    "ISO 27001 Lead Auditor/ISO Clauses/Clause 6.md",
+    "ISO 27001 Lead Auditor/ISO Clauses/Clause 5.md",
+    "ISO 27001 Lead Auditor/ISO Clauses/Clause 4.md",
+    "images/Pasted image 20260109133313.png",
+    "Governance Documents/Plans/Action Plans/Action Plans.md",
+    "ISO 27001 Lead Auditor/ISO Clauses",
+    "ISO 27001 Lead Auditor",
+    "Governance Documents/Plans",
+    "Governance Documents/Standards/STANDARDS DOCUMENTS.md",
+    "Audit Report Preparation/Components of Audit Report.md",
+    "Untitled.md",
+    "images/Pasted image 20260109133342.png",
+    "Welcome.md"
+  ]
+}

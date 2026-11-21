@@ -1,0 +1,3 @@
+- Remember to use it from a different PowerShell session started by using Invisi-Shell. If you load PowerView and the ADModule in same PowerShell session, some functions may not work:
+- Please remember to turn off or add an exception to your student VM's firewall when you run a listener for a reverse shell.
+- 
